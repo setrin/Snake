@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+    color: #000;
+}
+
+.container {
+    width: auto;
+    margin: 0 auto;
+    padding: 30px 15px;
+}
+
+canvas {
+    border: 1px solid black;
+}
